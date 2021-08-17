@@ -2,7 +2,15 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Deployments
 
-CloudFront - https://d3kw6j42769u1g.cloudfront.net
+### Manual
+
+CloudFront - https://d3kw6j42769u1g.cloudfront.net/
+
+S3-website - http://rss-app-stor.s3-website-eu-west-1.amazonaws.com
+
+### Automated
+
+CloudFront - https://d3sx6foxir793w.cloudfront.net
 
 S3-website - http://rss-app-stor-auto.s3-website-eu-west-1.amazonaws.com
 
