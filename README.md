@@ -1,9 +1,23 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Deployments
+
+### Manual
+
+CloudFront - https://d3kw6j42769u1g.cloudfront.net/
+
+S3-website - http://rss-app-stor.s3-website-eu-west-1.amazonaws.com
+
+### Automated
+
+CloudFront - https://d3sx6foxir793w.cloudfront.net
+
+S3-website - http://rss-app-stor-auto.s3-website-eu-west-1.amazonaws.com
+
 ## Available Scripts
 
 In the project directory, you can run:  
-You can use NPM instead of YARN (Up to you)  
+You can use NPM instead of YARN (Up to you)
 
 ### `yarn start` OR `npm run start`
 
