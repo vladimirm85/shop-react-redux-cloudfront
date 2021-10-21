@@ -31,7 +31,7 @@ plugins:
 
 custom:
   client:
-    bucketName: rss-app-stor-auto
+    bucketName: rss-app-stor
     distributionFolder: build
   s3BucketName: ${self:custom.client.bucketName}
 
